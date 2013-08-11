@@ -11,6 +11,7 @@
 		<r:layoutResources />
 	</head>
 	<body>
+        <g:render template="/layouts/menu" />
 		<g:layoutBody/>
 		<r:layoutResources />
 	</body>

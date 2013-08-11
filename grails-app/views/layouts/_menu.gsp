@@ -5,7 +5,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/patois/"><span class="glyphicon glyphicon-ok"></span></a>
+        <a class="navbar-brand" href="/patois/"><span class="glyphicon glyphicon-home"></span></a>
         <div class="nav-collapse collapse">
             <ul class="nav navbar-nav">
                 <li class="dropdown">

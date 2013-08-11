@@ -15,7 +15,7 @@
                         <li><a href="#">Un site communautaire</a></li>
                         <li class="divider"></li>
                         <li class="nav-header">Le minimum</li>
-                        <li><a href="#">L'hymne ardéchois</a></li>
+                        <li><a href="/patois/patois/hymne">L'hymne ardéchois</a></li>
                         <li><a href="/patois/proverbe/">Les proverbes indispensables</a></li>
                     </ul>
                 </li>
@@ -24,18 +24,24 @@
                     <ul class="dropdown-menu">
                         <li><a href="#">Introduction</a></li>
                         <li><a href="#">Les articles indéfinis</a></li>
+                        <li><a href="#">Exercices</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exercice<b class="caret"></b></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Vocabulaire<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Vocabulaire</a></li>
-                        <li><a href="#">Grammaire</a></li>
+                        <li><a href="#">Recherche</a></li>
+                        <li><a href="#">Exercices</a></li>
                     </ul>
                 </li>
                 <li><a href="#forum">Forum</a></li>
-                <li><a href="/patois/patois/faq">F.A.Q</a></li>
-                <li><a href="/patois/patois/about">Contact</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">A propos<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/patois/patois/faq">F.A.Q</a></li>
+                        <li><a href="/patois/patois/about">Contact</a></li>
+                    </ul>
+                </li>
             </ul>
             <form class="navbar-form form-inline pull-right">
                 <input type="text" placeholder="Email">

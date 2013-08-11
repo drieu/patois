@@ -14,4 +14,8 @@ class PatoisController {
     def about = {
 
     }
+
+    def hymne = {
+
+    }
 }

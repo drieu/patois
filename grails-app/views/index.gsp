@@ -13,8 +13,27 @@
                 <p>On connait tous des mots, des expressions.On aimerait apprendre le patois mais c'est difficile car il n'a pas beaucoup de livre.
                 L'objectif de ce site est de receuillir un maximum d'information et de les mettre à disposition de tous pour ne pas qu'on oublie !</p>
                 <p><a class="btn btn-primary btn-large">Participez &raquo;</a></p>
-            </div>
 
+                <div class="row">
+                    <h3>Vous recherchez un mot, un proverbe ?</h3>
+                    <div class="col-lg-6">
+                        <div class="input-group">
+                            <input type="text" class="form-control">
+                            <div class="input-group-btn">
+                                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Traducteur <span class="caret"></span></button>
+                                <ul class="dropdown-menu pull-right">
+                                    <li><a href="#">Recherche global</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="#">Traduire en patois</a></li>
+                                    <li><a href="#">Traduire en français</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="/patois/proverbe/">Proverbes</a></li>
+                                </ul>
+                            </div><!-- /btn-group -->
+                        </div><!-- /input-group -->
+                    </div><!-- /.col-lg-6 -->
+                </div><!-- /.row -->
+            </div>
             <div class="body-content">
 
                 <!-- Example row of columns -->
@@ -39,10 +58,24 @@
                             <li class="list-group-item">
                                 <span class="badge">2</span>
                                 Produire un livre gratuit pour apprendre le patois ardéchois.
-                                <span class="badge">2</span>
+                            </li>
+                            <li class="list-group-item">
+                                <span class="badge">3</span>
+                                Répertoriez tous les mots par village/zone géographique.
                             </li>
                         </ul>
-                        <p>Répertoriez les mots par village.Selon les villages, le patois est différent. Avec ce site, vous pouvez ajouter des mots et indiquer leur zone géographique.</p>
+                        <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+                    </div>
+                    <div class="col-lg-4">
+                        <h2>Proverbes ardéchois</h2>
+                        <ul class="list-group">
+                            <li class="list-group-item">
+                                Si vous connaissez un proverbe, Ajoutez le !
+                            </li>
+                            <li class="list-group-item">
+                                Votez pour votre proverbe préféré.
+                            </li>
+                        </ul>
                         <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
                     </div>
                 </div>

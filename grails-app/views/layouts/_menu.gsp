@@ -11,8 +11,8 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Les bases<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Présentation</a></li>
-                        <li><a href="#">Un site communautaire</a></li>
+                        <li><a href="/patois/patois/main">Présentation</a></li>
+                        <li><a href="/patois/patois/community">Un site communautaire</a></li>
                         <li class="divider"></li>
                         <li class="nav-header">Le minimum</li>
                         <li><a href="/patois/patois/hymne">L'hymne ardéchois</a></li>
@@ -45,8 +45,9 @@
             </ul>
             <form class="navbar-form form-inline pull-right">
                 <input type="text" placeholder="Email">
-                <input type="password" placeholder="Password">
-                <button type="submit" class="btn">Sign in</button>
+                <input type="password" placeholder="Mot de passe">
+                <button type="submit" class="btn">Se connecter</button>
+                <button type="submit" class="btn">S'inscrire</button>
             </form>
         </div><!--/.nav-collapse -->
     </div>

@@ -18,4 +18,12 @@ class PatoisController {
     def hymne = {
 
     }
+
+    def community = {
+
+    }
+
+    def main = {
+
+    }
 }

@@ -41,12 +41,27 @@
                     <div class="col-lg-4">
                         <h2>Gratuit</h2>
                         <p>Ce site est entièrement gratuit.De plus, un des objectifs du site est de produire un livre (pdf) qui puisse être télécharger gratuitement par tous. </p>
-                        <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+                        <p><a class="btn btn-info" href="/patois/patois/faq">View details &raquo;</a></p>
                     </div>
                     <div class="col-lg-4">
                         <h2>Communautaire</h2>
-                        <p>Tout le monde peut participer et facilement ! Si vous connaissez un mot ou une expression, connectez-vous et ajoutez le en deux clics !</p>
-                        <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+                        <p>Tout le monde peut participer et facilement !
+                        Si vous connaissez un mot ou une expression, connectez-vous et ajoutez le en deux clics !</p>
+                        <p><a class="btn btn-success" href="/patois/patois/community">Plus de détails &raquo;</a></p>
+                    </div>
+                    <div class="col-lg-4">
+                        <h2>Les chiffres</h2>
+                        <ul class="list-group">
+                            <li class="list-group-item">
+                                <span class="badge">X</span>Nombre de mots
+                            </li>
+                            <li class="list-group-item">
+                                <span class="badge">X</span>
+                                Nombre de proverbes
+                            </li>
+                            <br/>
+                            <p><a class="btn btn-warning" href="#">Ajoutez des mots &raquo;</a></p>
+                        </ul>
                     </div>
                     <div class="col-lg-4">
                         <h2>Objectifs du site</h2>
@@ -57,26 +72,26 @@
                             </li>
                             <li class="list-group-item">
                                 <span class="badge">2</span>
-                                Produire un livre gratuit pour apprendre le patois ardéchois.
+                                Produire un pdf gratuit pour apprendre le patois ardéchois.
                             </li>
                             <li class="list-group-item">
                                 <span class="badge">3</span>
                                 Répertoriez tous les mots par village/zone géographique.
                             </li>
                         </ul>
-                        <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
                     </div>
                     <div class="col-lg-4">
                         <h2>Proverbes ardéchois</h2>
                         <ul class="list-group">
                             <li class="list-group-item">
-                                Si vous connaissez un proverbe, Ajoutez le !
+                                <span class="glyphicon glyphicon-ok"></span> Ce site liste tous les proverbes connus et compte sur vous pour ajouter les proverbes que vous
+                                connaissez !
                             </li>
                             <li class="list-group-item">
-                                Votez pour votre proverbe préféré.
+                                <span class="glyphicon glyphicon-ok"></span> Vous pouvez voter pour votre proverbe préféré !
                             </li>
                         </ul>
-                        <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+                        <p><a class="btn btn-success" href="/patois/proverbe/">Accèder à la liste des proverbes  &raquo;</a></p>
                     </div>
                 </div>
 

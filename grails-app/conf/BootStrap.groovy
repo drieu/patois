@@ -19,9 +19,20 @@ class BootStrap {
                 println("Persist saying in database")
                 def saying = new Saying()
                 saying.id = 1
-                saying.frSaying="Pas d'huile sans crass"
-                saying.patoisSaying="Traduction"
+                saying.frSaying="Dis mé en caou vas, té dirai caou siès"
+                saying.patoisSaying="Dis-moi qui tu hantes, je te dirai qui tu es."
+                saying.phonetic=""
                 saying.save()
+
+                saying = new Saying()
+                saying.id = 2
+                saying.frSaying="Omi dé cadun, omi dé dengun"
+                saying.patoisSaying="Ami de tous, ami de personne"
+                saying.phonetic=""
+                saying.save()
+                if(saying.hasErrors()){
+                    println saying.errors
+                }
                 break
         }
 

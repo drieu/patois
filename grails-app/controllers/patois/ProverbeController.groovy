@@ -8,8 +8,6 @@ class ProverbeController {
 
     def saying = {
         def saying = new Saying();
-        def sayings = saying.findAll()
-        println("Hello")
-        return sayings
+        [sayings : saying.findAll()]
     }
 }

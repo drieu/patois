@@ -1,6 +1,6 @@
 dataSource {
     pooled = true
-    driverClassName = "org.mariadb.jdbc.Driver"
+    driverClassName = "com.mysql.jdbc.Driver"
     username = "grails"
     password = "server"
 }

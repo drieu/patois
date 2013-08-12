@@ -8,10 +8,41 @@
 <r:require modules="bootstrap"/>
 
 <div class="container">
+    <br/>
+    <br/>
+    <h1>Proverbes ardéchois les plus populaires</h1>
+    <br/>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="input-group">
+                <input type="text" class="form-control">
+                <div class="input-group-btn">
+                    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">Recherche <span class="caret"></span></button>
+                    <ul class="dropdown-menu pull-right">
+                        <li><a href="#">Recherche du proverbe français</a></li>
+                        <li><a href="#">Recherche du proverbe en patois</a></li>
+                    </ul>
+                </div>
+                <button type="button" class="btn btn-success">Ajouter un proverbe</button>
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <div class="thumbnail">
+                <img data-src="holder.js/300x200" alt="">
+                <div class="caption">
+                    <h3>Publicité</h3>
+                    <p>...</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-        <br/>
+
+    <br/>
+    <br/>
+    <br/>
         <table class="table table-hover table-condensed table-striped">
-            <caption>Proverbes ardéchois les plus populaires.</caption>
+            <caption>Classement des proverbes.</caption>
             <thead>
             <tr>
                 <th>#</th>

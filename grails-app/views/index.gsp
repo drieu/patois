@@ -30,8 +30,10 @@
                                     <li><a href="/patois/proverbe/">Proverbes</a></li>
                                 </ul>
                             </div><!-- /btn-group -->
+
                         </div><!-- /input-group -->
                     </div><!-- /.col-lg-6 -->
+
                 </div><!-- /.row -->
             </div>
             <div class="body-content">
@@ -41,7 +43,7 @@
                     <div class="col-lg-4">
                         <h2>Gratuit</h2>
                         <p>Ce site est entièrement gratuit.De plus, un des objectifs du site est de produire un livre (pdf) qui puisse être télécharger gratuitement par tous. </p>
-                        <p><a class="btn btn-info" href="/patois/patois/faq">View details &raquo;</a></p>
+                        <p><a class="btn btn-info" href="/patois/patois/faq">Participez &raquo;</a></p>
                     </div>
                     <div class="col-lg-4">
                         <h2>Communautaire</h2>
